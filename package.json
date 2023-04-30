@@ -1,7 +1,7 @@
 {
   "name": "@mihaicomanoiu/mcs-react-components",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/mihaimomanoiu"
+    "registry": "https://npm.pkg.github.com/mihaicomanoiu"
   },
   "version": "1.0.0",
   "description": "",
